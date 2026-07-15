@@ -1,7 +1,7 @@
 ![languages](https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/main/Java/Java.png)
 
 ### Hi there 👋
-I am an architectural design researcher with the superpower of programming. Here is a bit about me, my most popular projects, and how to get in touch with you.
+I am a Game Server Architect who codes high-concurrency backend systems as my superpower. Here is a bit about me, my most popular projects, and how to get in touch.
 
 ### About me
 - 🦗 Game Server Developer. Specializing in Go, Java, and Kotlin for high-concurrency backend systems.My main industry is Game Development, focusing on scalable multiplayer architectures and real-time state synchronization.
