@@ -1,32 +1,21 @@
-### Hey 👋, I'm Espresso🙋‍♂️
+![languages](https://raw.githubusercontent.com/jonacruz89/SAWARATSUKI.ServiceLogos/main/Java/Java.png)
 
-<!--![Profile views](https://gpvc.arturio.dev/dawndev)-->
+### Hi there 👋
+I am an architectural design researcher with the superpower of programming. Here is a bit about me, my most popular projects, and how to get in touch with you.
 
-<a href="https://www.leetcode.com/">
-  <img align="left" alt="Espresso's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.google.com/">
-  <img align="left" alt="Espresso's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/wechat.svg" />
-</a>
-<a href="https://www.zhihu.com/">
-  <img align="left" alt="Espresso's Wechat" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/zhihu.svg" />
-</a>
+### About me
+- 🦗 Junior computational designer. I have 4 years of experience developing plugins for [Grasshopper 3D](https://www.grasshopper3d.com/) (3d procedural modeling plugin for Rhinoceros 3D) and using code to solve architecture professional projects. 
+- 🏢 My main industry is Architecture, being a plugin developer for [Revit](https://www.autodesk.com/products/revit/overview), [Rhinoceros 3D](https://www.rhino3d.com/) and so on.
+- 🏛️ I want to focus on the data exchange problems in the whole process of the construction specialty, such as [IFC](https://github.com/buildingSMART/IFC4.3.x-development).
+- 💖 I love complex things. I'm fascinated by procedural geometry, digital data design, and many other fields of knowledge and creativity.
 
-<br />
-<br />
+### Codes
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/espen7/espen7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/espen7/espen7/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/espen7/espen7/output/github-contribution-grid-snake.svg">
+</picture>
 
-#### 🎍 Welcome to my hub 👨‍💻
-
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-**A Bit More About Me**
-- 💡 Creative Problem Solver - I thrive on finding innovative solutions to complex problems, whether it's optimizing game performance or designing a new feature.
-- 🚀 Continuous Learner - The tech industry is always evolving, and I make it a point to stay updated with the latest developments and tools.
-- 🎮 Gamer at Heart - I'm a big fan of various game genres, from classic RPGs to modern FPSs. This passion drives me to create games that resonate with players.
-- 🎨 Art and Design - I appreciate good art and design in all forms, from game UIs to web layouts. I believe the visual aspect is just as important as the functionality.
-- 🌐 Travel - When I'm not coding, you might find me exploring new places and cultures. Traveling broadens my perspective and inspires new ideas.
-- 📚 Books and Learning - I enjoy reading books on technology, psychology, and philosophy. They help me understand the world better and improve my problem-solving skills.
-- 💪 Fitness Enthusiast - A healthy body supports a healthy mind. I try to maintain a regular fitness routine to stay sharp and focused.
-- 📫 Contact Me - The best way to get in touch is via email at bezy@foxmail.com. I respond promptly and am open to collaborations, questions, and just general discussions.
-
+### Contact
+TODO
