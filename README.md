@@ -4,10 +4,9 @@
 I am an architectural design researcher with the superpower of programming. Here is a bit about me, my most popular projects, and how to get in touch with you.
 
 ### About me
-- 🦗 Junior computational designer. I have 4 years of experience developing plugins for [Grasshopper 3D](https://www.grasshopper3d.com/) (3d procedural modeling plugin for Rhinoceros 3D) and using code to solve architecture professional projects. 
-- 🏢 My main industry is Architecture, being a plugin developer for [Revit](https://www.autodesk.com/products/revit/overview), [Rhinoceros 3D](https://www.rhino3d.com/) and so on.
-- 🏛️ I want to focus on the data exchange problems in the whole process of the construction specialty, such as [IFC](https://github.com/buildingSMART/IFC4.3.x-development).
-- 💖 I love complex things. I'm fascinated by procedural geometry, digital data design, and many other fields of knowledge and creativity.
+- 🦗 Game Server Developer. Specializing in Go, Java, and Kotlin for high-concurrency backend systems.My main industry is Game Development, focusing on scalable multiplayer architectures and real-time state synchronization.
+- 🏢 I focus on the core challenges of modern game infrastructure, having successfully supported millions of DAU and achieved 99.99% availability.
+- 🏛️ I love solving hard engineering problems. I'm fascinated by distributed systems, high-performance computing, and the invisible logic that brings virtual worlds to life.
 
 ### Codes
 
